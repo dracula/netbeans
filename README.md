@@ -2,6 +2,8 @@
 ## Introduction
 This is a port of the [Dracula theme](https://draculatheme.com) to the Netbeans IDE.
 
+![Screenshot](./screenshots/dracula-for-netbeans-theme-java-screenshot-lrg.png)
+
 ## Supported languages
 - Java
 - HTML
