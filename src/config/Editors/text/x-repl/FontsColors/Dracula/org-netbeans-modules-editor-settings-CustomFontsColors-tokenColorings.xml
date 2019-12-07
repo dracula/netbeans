@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="ffffffcc" default="string" foreColor="black" name="output">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor default="text" name="command-param"/>
+    <fontcolor foreColor="black" name="java"/>
+    <fontcolor default="string" name="command-string"/>
+    <fontcolor bgColor="white" default="string" foreColor="blue" name="delimiter"/>
+    <fontcolor default="error" name="mark-error"/>
+    <fontcolor default="identifier" name="command-option">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor bgColor="white" default="string" foreColor="gray" name="message">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor default="identifier" name="prompt">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" name="command">
+        <font style="bold"/>
+    </fontcolor>
+</fontscolors>

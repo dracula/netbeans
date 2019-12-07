@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="operator" name="keyword.operator"/>
+    <fontcolor default="keyword" name="support.constant"/>
+    <fontcolor default="string" name="string"/>
+    <fontcolor default="number" name="constant.numeric"/>
+    <fontcolor default="char" name="constant.character"/>
+    <fontcolor default="identifier" name="constant.other"/>
+    <fontcolor name="markup.underline" underline="black"/>
+    <fontcolor default="keyword" name="storage"/>
+    <fontcolor default="keyword" name="constant.language"/>
+    <fontcolor default="identifier" name="markup.bold">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="variable.language"/>
+    <fontcolor default="error" name="invalid"/>
+    <fontcolor default="identifier" name="markup.heading">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="char" name="constant.character.escape">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="method" name="support.function"/>
+    <fontcolor default="method" name="entity.name.function">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" name="markup.italic">
+        <font style="italic"/>
+    </fontcolor>
+</fontscolors>

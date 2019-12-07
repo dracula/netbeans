@@ -15,7 +15,7 @@
     <fontcolor foreColor="ff287bde" name="url" underline="ff287bde"/>
     <fontcolor foreColor="ffbd93f9" name="number"/>
     <fontcolor bgColor="ff282a36" foreColor="ffa9b7c6" name="default">
-        <font name="Monospaced" size="14"/>
+        <font name="Fira Mono Medium" size="14"/>
     </fontcolor>
     <fontcolor default="identifier" foreColor="ffffb86c" name="field"/>
     <fontcolor foreColor="fff1fa8c" name="char"/>

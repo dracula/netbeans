@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="">
+        <attr name="Keymaps\currentKeymap" stringvalue="NetBeans"/>
+        <attr name="Modules\org-netbeans-libs-oracle-jsparser.xml\ergonomicsEnabled" longvalue="1574661957270"/>
+        <attr name="Modules\org-netbeans-libs-oracle-jsparser.xml\ergonomicsUnused" intvalue="11"/>
+        <attr name="Services\DiffProviders\org-netbeans-modules-diff-builtin-provider-BuiltInDiffProvider.settings\position" intvalue="100"/>
+        <attr name="Spellcheckers\GSP\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\HTML\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\JSP\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\PHP\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\Plain\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\Properties\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\XHTML\Hidden" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="Editors">
+        <attr name="currentFontColorProfile" stringvalue="Dracula"/>
+    </fileobject>
+    <fileobject name="Keymaps">
+        <attr name="currentKeymap" stringvalue="MIXU&apos;"/>
+    </fileobject>
+</attributes>

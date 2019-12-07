@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ff999922" name="block-name"/>
+    <fontcolor default="default" name="expression-delimiter">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff999922" name="mixin-name"/>
+    <fontcolor default="default" name="code-delimiter"/>
+    <fontcolor default="markup-element" name="html-tag"/>
+    <fontcolor default="default" name="separator"/>
+    <fontcolor bgColor="ffe3f2e1" default="default" name="javascript-embedded"/>
+    <fontcolor foreColor="ff006b6b" name="filter"/>
+    <fontcolor default="markup-attribute" name="html-attribute"/>
+    <fontcolor default="comment" name="unbuffered-comment"/>
+    <fontcolor foreColor="ff006b00" name="css-class"/>
+    <fontcolor default="default" foreColor="ff628fb5" name="sgml-declaration"/>
+    <fontcolor bgColor="ffe3f2ff" default="default" name="plain-text"/>
+    <fontcolor default="default" name="filter-text"/>
+    <fontcolor default="default" name="plain-text-delimiter"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="default" name="text"/>
+    <fontcolor foreColor="ff007c00" name="css-id"/>
+    <fontcolor default="keyword" name="keyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff6b6b00" name="file-path"/>
+    <fontcolor bgColor="ffe3f2e1" default="default" name="css-embedded"/>
+</fontscolors>
