@@ -11,10 +11,10 @@ This is a port of the [Dracula theme](https://draculatheme.com) to the Netbeans 
 - JavaScript
  
 ## Installation instructions
-1. `git clone git@github.com/jasontelfer/dracula-theme-for-netbeans.git`
+1. Download the latest `.zip` file from the [releases page](https://github.com/jasontelfer/dracula-theme-for-netbeans/releases/)
 2. Start Netbeans
 3. Navigate to theme import dialog: `Tools > Options > Fonts & Colors > Import..`
-4. Click `Browse...` and select `dracula-theme-for-netbeans.zip` from the cloned repository and click `Ok`
+4. Click `Browse...` and select the `.zip` file downloaded from the release page and then click `Ok`
 5. Ensure `All` option is checked and then click `Ok`
 
 The Dracula for Netbeans looks best when combined with [Darcula LAF](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans).
