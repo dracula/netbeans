@@ -20,7 +20,7 @@ This is a port of the [Dracula theme](https://draculatheme.com) to the Netbeans 
 The Dracula for Netbeans looks best when combined with [Darcula LAF](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans).
 
 ## Contribute
-Netbeans supports many languages so any help adapting the Dracula to more languages is welcome.
+Netbeans supports many languages so any help adapting the theme to more languages is welcome.
 
 ## Thanks
 Thanks to:
