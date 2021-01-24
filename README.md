@@ -1,32 +1,33 @@
-# Dracula Theme for Netbeans
-## Introduction
-This is a port of the [Dracula theme](https://draculatheme.com) to the Netbeans IDE.
+# Dracula for [Netbeans](https://netbeans.org)
 
-![Screenshot](./screenshots/dracula-netbeans-java-screenshot.png)
+> A dark theme for [Netbeans](https://netbeans.org).
+
+![Screenshot](./screenshot.png)
+
+## Install
+
+All instructions can be found at [draculatheme.com/netbeans](https://draculatheme.com/netbeans).
 
 ## Supported languages
 - Java
 - HTML
 - XML
 - JavaScript
- 
-## Installation instructions
-1. Download the latest `.zip` file from the [releases page](https://github.com/jasontelfer/dracula-theme-for-netbeans/releases/)
-2. Start Netbeans
-3. Navigate to theme import dialog: `Tools > Options > Fonts & Colors > Import..`
-4. Click `Browse...` and select the `.zip` file downloaded from the release page and then click `Ok`
-5. Ensure `All` option is checked and then click `Ok`
-
-The Dracula for Netbeans looks best when combined with [Darcula LAF](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans).
 
 ## Contribute
 Netbeans supports many languages so any help adapting the theme to more languages is welcome.
 
 ## Thanks
-Thanks to:
-- [Dracula theme project](https://draculatheme.com) for great and widely ported themes.
-- [Dracula for Jetbrains](https://github.com/dracula/jetbrains) and [Dracula for Emacs](https://github.com/dracula/emacs) were used to match the color selections in Dracula for Netbeans.
-- Dracula for Netbeans is built ontop of code from the excellent [Darcula Theme](https://github.com/bulenkov/Darcula/) for Netbeans.
+Dracula for Netbeans is built ontop of code from the excellent [Darcula Theme](https://github.com/bulenkov/Darcula/) for Netbeans.
 
-## Contact
- 
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/netbeans/graphs/contributors).
+
+[![Jason Telfer](https://github.com/jasontdev.png?size=100)](https://github.com/jasontdev) |
+--- |
+[Jason Telfer](https://github.com/jasontdev) |
+
+## License
+
+[MIT License](./LICENSE)
