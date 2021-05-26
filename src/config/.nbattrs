@@ -17,7 +17,4 @@
     <fileobject name="Editors">
         <attr name="currentFontColorProfile" stringvalue="Dracula"/>
     </fileobject>
-    <fileobject name="Keymaps">
-        <attr name="currentKeymap" stringvalue="MIXU&apos;"/>
-    </fileobject>
 </attributes>
