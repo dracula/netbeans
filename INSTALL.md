@@ -1,14 +1,8 @@
 ### [Netbeans](https://netbeans.org)
 
-#### Install using Git
+#### Installing the latest release
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/netbeans.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/netbeans/archive/master.zip) option and unzip them.
+Download the Zip file from the [latest release page](https://github.com/dracula/netbeans/releases/latest) on Github.
 
 #### Activating theme
 
