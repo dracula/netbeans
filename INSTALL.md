@@ -11,4 +11,4 @@ Download the Zip file from the [latest release page](https://github.com/dracula/
 3. Click `Browse...` and select the `.zip` file downloaded from the release page and then click `Ok`
 4. Ensure `All` option is checked and then click `Ok`
 
-The Dracula for Netbeans looks best when combined with [Darcula LAF](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans).
+The Dracula for Netbeans looks best when combined with [Darcula LAF](https://github.com/Revivius/nb-darcula).
